@@ -1,6 +1,6 @@
 
 import requests
-url = "http://api.example.com/data"
+url = "https://jsonplaceholder.typicode.com/posts"
 
 response = requests.get(url)
 
