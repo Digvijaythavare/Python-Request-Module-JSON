@@ -4,7 +4,8 @@ import json
 data ={
 "name": "John Doe",
 "age": 30,  
-"city": "New York",}
+"city": "New York",
+}
 
 Json_data = json.dumps(data,indent=4)
 
